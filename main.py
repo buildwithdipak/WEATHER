@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 # ==========================
 # CONFIG
 # ==========================
-API_KEY = "b2e8f4ff51d93f378844ce06669c7373"  # OpenWeatherMap
+API_KEY = "ENTER YOUR OPEN WEATHER API KEY HERE"  # OpenWeatherMap
 DEFAULT_LANG = "en"
 APP_TITLE = "Weather Voice — Premium Assistant"
 
